@@ -1,0 +1,13 @@
+.navbar-container {
+    background-color: var(--primary-color);
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    padding-left: 40px;
+    width: 100%;
+}
+
+.navbar-container h1 {
+    font-size: 24px;
+    color: var(--blue-color);
+}
